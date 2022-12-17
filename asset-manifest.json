@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BookStore/static/css/main.0f61a720.css",
+    "main.js": "/BookStore/static/js/main.e302a771.js",
+    "static/js/787.08f3454f.chunk.js": "/BookStore/static/js/787.08f3454f.chunk.js",
+    "static/media/liab1.png": "/BookStore/static/media/liab1.4f23268bfc77a37de9e1.png",
+    "index.html": "/BookStore/index.html",
+    "main.0f61a720.css.map": "/BookStore/static/css/main.0f61a720.css.map",
+    "main.e302a771.js.map": "/BookStore/static/js/main.e302a771.js.map",
+    "787.08f3454f.chunk.js.map": "/BookStore/static/js/787.08f3454f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f61a720.css",
+    "static/js/main.e302a771.js"
+  ]
+}
